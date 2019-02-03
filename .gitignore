@@ -1,0 +1,6 @@
+backup/
+bak2/
+img/
+*.pkl
+.JMash*
+.ipynb_check*
