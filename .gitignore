@@ -4,3 +4,4 @@ img/
 *.pkl
 .JMash*
 .ipynb_check*
+Website/node_modules/
